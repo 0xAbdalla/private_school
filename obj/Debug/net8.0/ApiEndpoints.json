@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Private_School.Controllers.Private_Schoolcontroller",
+    "Method": "register_of_student",
+    "RelativePath": "Private_School",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stu",
+        "Type": "Private_School.Data.students",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

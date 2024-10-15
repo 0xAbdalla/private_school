@@ -2,10 +2,10 @@
 
 namespace Private_School.Data
 {
-    public class board_of_directories
+    public class BoardOfDirectories
     {
         [Key]
-        public required int BMID { get; set; }
+        public int Id { get; set; }
         public required string FirstName { get; set; }
         public required string LastName { get; set; }
         public required int PhoneNumber { get; set; }

@@ -1,8 +1,11 @@
-﻿namespace Private_School.Data
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Private_School.Data
 {
-    public class employees
+    public class Employee
     {
-        public required int EmployeeID { get; set; }
+        [Key]
+        public  int Id { get; set; }
         public required string FirstName { get; set; }
         public required string LastName { get; set; }
         public required int PhoneNumber { get; set; }

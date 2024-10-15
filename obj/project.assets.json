@@ -8131,19 +8131,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\shahd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Private_School\\Private_School\\Private_School.csproj",
-      "projectName": "Private_School",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\Private_School\\Private_School\\Private_School.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\Private_School\\Private_School\\obj\\",
+      "projectUniqueName": "G:\\private_school\\private_school.csproj",
+      "projectName": "private_school",
+      "projectPath": "G:\\private_school\\private_school.csproj",
+      "packagesPath": "C:\\Users\\shahd\\.nuget\\packages\\",
+      "outputPath": "G:\\private_school\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shahd\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

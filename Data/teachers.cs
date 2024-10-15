@@ -2,9 +2,9 @@
 
 namespace Private_School.Data
 {
-    public class teachers
+    public class Teacher
     {
-        public required int TeacherID { get; set; }
+        public int Id { get; set; }
         public required string FirstName { get; set; }
         public required string LastName { get; set; }
         public required int PhoneNumber { get; set; }

@@ -1,8 +1,10 @@
 ﻿namespace Private_School.Data
 {
-    public class students
+    // SHould be Student
+    public class Student
     {
-        public required int StudentID { get; set; }
+        // removed required. because it's set from db not from us, so we couldn't pass from our side. 
+        public  int Id { get; set; }
         public required string FirstName { get; set; }
         public required string LastName { get; set; }
         public required string PhoneNumber { get; set; }

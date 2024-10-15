@@ -2,9 +2,9 @@
 
 namespace Private_School.Data
 {
-    public class enrollments
+    public class Enrollment
     {
-        public required int Enrollment_ID { get; set; }
+        public  int Id { get; set; }
         public Reference StudentID { get; set; }
         public Reference SubjectID { get; set; }
         public required string Semester { get; set; }

@@ -2,9 +2,9 @@
 
 namespace Private_School.Data
 {
-    public class parents
+    public class Parent
     {
-        public required int ParentID { get; set; }
+        public int Id { get; set; }
         public Reference StudentID { get; set; }
 
         public required string FirstName { get; set; }
